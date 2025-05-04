@@ -4,7 +4,7 @@ A fun, browser-based Tic Tac Toe game built using HTML, CSS, and JavaScript. Thi
 
 ## 📸 Demo
 
-[Click here for live]
+[Click here for live]( https://shivanib9.github.io/Tic-Tac-Toe/)
 
 ## 🚀 Features
 
